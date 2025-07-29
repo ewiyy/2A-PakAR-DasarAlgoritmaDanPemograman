@@ -1,3 +1,4 @@
+Nama : Dewie Carolline (24110310013)
 # Aplikasi Inventori Toko Apotek
 
 Aplikasi sederhana berbasis Python CLI untuk mengelola stok obat di toko apotek. Cocok untuk usaha kecil atau inventaris manual tanpa sistem database.
